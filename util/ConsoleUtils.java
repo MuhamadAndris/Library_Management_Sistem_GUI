@@ -1,6 +1,6 @@
-package util;
-import java.util.Scanner;
-import java.util.List;
+package com.mycompany.library_management_system.util;
+import com.mycompany.library_management_system.java.util.Scanner;
+import com.mycompany.library_management_system.java.util.List;
 
 public class ConsoleUtils {
     Scanner scanner = new Scanner(System.in);

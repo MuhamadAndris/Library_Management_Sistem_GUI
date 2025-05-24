@@ -1,6 +1,6 @@
-package service;
-import model.Book;
-import util.ConsoleUtils;
+package com.mycompany.library_management_system.service;
+import com.mycompany.library_management_system.model.Book;
+import com.mycompany.library_management_system.util.ConsoleUtils;
 
 import java.util.ArrayList;
 import java.util.List;

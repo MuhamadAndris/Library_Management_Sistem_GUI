@@ -1,4 +1,4 @@
-package util;
+package com.mycompany.library_management_system.util;
 
 public class FormUtils {
     ConsoleUtils cUtils = new ConsoleUtils();

@@ -1,4 +1,4 @@
-package model;
+package com.mycompany.library_management_system.model;
 
 public class Library {
     private String title;

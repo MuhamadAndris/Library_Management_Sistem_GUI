@@ -1,9 +1,9 @@
-package service;
+package com.mycompany.library_management_system.service;
 
-import java.util.ArrayList;
+import com.mycompany.library_management_system.java.util.ArrayList;
 
-import model.Loan;
-import java.util.List;;
+import com.mycompany.library_management_system.model.Loan;
+import com.mycompany.library_management_system.java.util.List;;
 
 public class LoanService {
     // Note : Bang rozi, Nevi, tomo untuk tempat menyimpan transaksi peminjaman bukunya ada di sini ya, jadi sudah saling terhubung.
