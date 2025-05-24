@@ -1,8 +1,8 @@
-package src.service;
+package service;
 
 import java.util.ArrayList;
 
-import src.model.Loan;
+import model.Loan;
 import java.util.List;;
 
 public class LoanService {

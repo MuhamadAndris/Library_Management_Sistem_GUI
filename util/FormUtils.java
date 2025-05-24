@@ -1,4 +1,4 @@
-package src.util;
+package util;
 
 public class FormUtils {
     ConsoleUtils cUtils = new ConsoleUtils();

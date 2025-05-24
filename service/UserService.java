@@ -1,6 +1,6 @@
-package src.service;
-import src.model.User;
-import src.util.ConsoleUtils;
+package service;
+import model.User;
+import util.ConsoleUtils;
 
 import java.util.ArrayList;
 import java.util.List;
